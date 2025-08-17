@@ -1,2 +1,2 @@
-# Death_Landing-Page
+# Landing Page
 Minha primeira Landing Page
